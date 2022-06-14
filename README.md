@@ -43,6 +43,6 @@ Resimli Link:
 
 örn: [Tren Resmi](https://i.picsum.photos/id/670/200/300.jpg?hmac=Ib58hZuwIQfcFZjEvKKi0p-j4GN1BGIkE7wLsa95Xk4)
 
-<img src="Images/Projeimg.png"
-     alt="Markdown Monster icon"
+<img src="Projeimg.png"
+     alt="Proje Resmi"
      style="float: left; margin-right: 10px;" />
